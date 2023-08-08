@@ -16,6 +16,7 @@ public class Pruebagithub2 {
      */
     public static void main(String[] args) {
         System.out.println(" este es mi prueba nancy");//para hacerme un repositorio y compartir
+        System.out.println("Hola a todos");// modificacion hecha por gabriel.
     }
     
 }
